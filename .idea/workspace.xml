@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7873016-e603-451d-b342-9d19291779f1" name="Changes" comment="th git master分支">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b7873016-e603-451d-b342-9d19291779f1" name="Changes" comment="master 4分支">
       <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668573942280</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="master 4分支">
+      <created>1668578108689</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668578108689</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +127,7 @@
     <MESSAGE value="first git dev分支" />
     <MESSAGE value="se git dev分支" />
     <MESSAGE value="th git master分支" />
-    <option name="LAST_COMMIT_MESSAGE" value="th git master分支" />
+    <MESSAGE value="master 4分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="master 4分支" />
   </component>
 </project>
