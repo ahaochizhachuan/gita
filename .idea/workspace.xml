@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7873016-e603-451d-b342-9d19291779f1" name="Changes" comment="master 4分支" />
+    <list default="true" id="b7873016-e603-451d-b342-9d19291779f1" name="Changes" comment="新分支" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668578108689</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="新分支">
+      <created>1668578756931</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668578756931</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +142,7 @@
     <MESSAGE value="se git dev分支" />
     <MESSAGE value="th git master分支" />
     <MESSAGE value="master 4分支" />
-    <option name="LAST_COMMIT_MESSAGE" value="master 4分支" />
+    <MESSAGE value="新分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="新分支" />
   </component>
 </project>
