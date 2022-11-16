@@ -1,0 +1,19 @@
+Index: src/main/java/test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class test {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"master分支第一次\");\r\n        System.out.println(\"master分支第二次+++++++++++++++++\");\r\n        System.out.println(\"dev分支第一次\");\r\n        System.out.println(\"master分支第三次\");\r\n        System.out.println(\"dev分支第二次\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/test.java b/src/main/java/test.java
+--- a/src/main/java/test.java	
++++ b/src/main/java/test.java	
+@@ -3,7 +3,6 @@
+         System.out.println("master分支第一次");
+         System.out.println("master分支第二次+++++++++++++++++");
+         System.out.println("dev分支第一次");
+-        System.out.println("master分支第三次");
+-        System.out.println("dev分支第二次");
++
+     }
+ }
