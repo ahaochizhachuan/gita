@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7873016-e603-451d-b342-9d19291779f1" name="Changes" comment="first git master分支">
+    <list default="true" id="b7873016-e603-451d-b342-9d19291779f1" name="Changes" comment="th git master分支">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
     </list>
@@ -23,10 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6d87ba26-8ed2-43e5-9f55-b948bf2178c2" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ff3a6bf2-dcd8-4a57-91b0-6c7c02f07e7b" />
+        <option name="url" value="https://github.com/ahaochizhachuan/git01.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,7 +57,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +78,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668571921592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first git dev分支">
+      <created>1668573760146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668573760146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="se git dev分支">
+      <created>1668573898190</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668573898190</updated>
+    </task>
+    <task id="LOCAL-00004" summary="th git master分支">
+      <created>1668573942280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668573942280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +118,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first git master分支" />
-    <option name="LAST_COMMIT_MESSAGE" value="first git master分支" />
+    <MESSAGE value="first git dev分支" />
+    <MESSAGE value="se git dev分支" />
+    <MESSAGE value="th git master分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="th git master分支" />
   </component>
 </project>
